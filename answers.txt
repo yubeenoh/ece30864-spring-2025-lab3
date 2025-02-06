@@ -1,6 +1,1 @@
-(a) 
-
-    Cons: lack of documentation, less predictability due to continuous feedback
-
-    Pros: increase performance by breaking down into smaller unit of works, easy to collaborate with teammates 
-
+(b) Product owner sets direction for the team and handles release management and stakeholder management. Scrum Master deals with all scrum related tasks such as Jira tooling, facilitating sprints, and so on.
