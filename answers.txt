@@ -1,1 +1,24 @@
-(b) Product owner sets direction for the team and handles release management and stakeholder management. Scrum Master deals with all scrum related tasks such as Jira tooling, facilitating sprints, and so on.
+
+(c) 
+
+    Sprint planning meeting
+
+        determine what to complete in the coming sprint
+
+        determine story points
+
+        start sprint
+
+    Daily scrum/standup meeting
+
+        short meeting for every day of the sprint
+
+        discuss work completed, work plan for the day and any blockers
+
+    Sprint retrospective meeting
+
+        occurs at the end of the sprint
+
+        discuss work complete and move incomplete work to backlog
+
+        close sprint
