@@ -1,0 +1,6 @@
+(a) 
+
+    Cons: lack of documentation, less predictability due to continuous feedback
+
+    Pros: increase performance by breaking down into smaller unit of works, easy to collaborate with teammates 
+
